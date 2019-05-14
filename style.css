@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+}
+#head{
+     margin: 0;
+     border:0;
+     padding:0;
+     width: 100%;
+     height: 40px;
+     background: #1a1a1a;
+     color: #f4f4f4;
+}
+#top{
+    margin: 0px;
+    width: 100%;
+    height: 45px;
+    background: #e99b8f;
+    font-size: 28px;
+}
+#right{
+    width: 45px;
+    height: auto;
+    background: #bf6900;
+    position: fixed;
+    left: 90%;
+
+}
+#dibuneirong{
+    width: 100%;
+    height: auto;
+    background: #959595;
+    margin: auto;
+}
+#zhuyaoneirong{
+    width: 80%;
+    height: auto;
+
+    margin: auto;
+}
+#headuser{
+    color: #f4f4f4;
+    text-decoration: none;
+    font-size: 28px;
+}
+#top\ biaoqian1{
+    color: #f4f4f4;
+    text-decoration: none;
+
+}
+#biaoqian1{
+    color: #f4f4f4;
+    font-size: 105px;
+    font-family:  Microsoft Yahei;
+    background-image: url("002.png");
+    background-repeat: no-repeat;
+    display:block;
+    width: 100%;
+    height: 16.5%;
+    text-align: left;
+}
+#fqbq1{
+    color: #1a1a1a;
+    font-size: 30px;
+    height: auto;
+}
+#zzz{
+    background-image: url("003.png");
+    background-repeat: no-repeat;
+    width: 137px;
+    height: 122px;
+    display:block;
+}
